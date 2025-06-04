@@ -286,7 +286,7 @@ http-server . -p 8080
 raiden/
 ├── index.html              # Main application entry point
 ├── index.tsx               # React application logic
-├── index.css               # Cyberpunk theme styling
+├── index.css               #     Styling
 ├── metadata.json           # Application metadata
 └── README.md              # This file
 ```
