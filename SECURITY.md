@@ -112,7 +112,7 @@ This software is released under the MIT License. The license explicitly states:
 
 ## Contact Information
 
-- **Security Issues**: `security@shimazusystems.dev`
+- **Security Issues**: `shimazu.osint@gmail.com`
 - **General Support**: GitHub Issues
 - **Organization**: [Shimazu Systems](https://github.com/ShimazuSystems)
 
