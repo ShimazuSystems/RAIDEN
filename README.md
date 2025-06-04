@@ -65,7 +65,7 @@ RAIDEN is a sophisticated web-based orchestration system designed to generate op
 
 ### Access
 
-Navigate to your deployment URL. The system initializes automatically with a cyberpunk splash screen.
+Navigate to your deployment URL. The system initializes automatically with a splash screen.
 
 ## 🎮 Usage Guide
 
@@ -155,7 +155,7 @@ The integrated AI advisory provides real-time assistance with:
 - **React 19.1.0**: Modern component-based architecture
 - **TypeScript**: Type-safe development with enhanced IDE support
 - **ESM Imports**: Modern module system via import maps
-- **CSS3**: Custom cyberpunk theme with responsive design
+- **CSS3**: Custom theme with responsive design
 
 ### **AI Integration**
 - **Google Generative AI**: Gemini 2.5 Flash for advisory capabilities
