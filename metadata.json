@@ -1,0 +1,8 @@
+{
+  "name": "RAIDEN INTELLIGENCE ORCHESTRATION SYSTEM",
+  "description": "An advanced web application for generating TSUKUYOMI framework prompts with a cyberpunk/terminal theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
